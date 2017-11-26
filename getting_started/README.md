@@ -15,4 +15,4 @@
   * Good lighting
   * Garbage can
 
-[(Next)](../electronics_basics/README.md) [(Prev)](../now_what/README.md)
+[(Next)](../electronics/README.md) [(Prev)](../now_what/README.md)

@@ -11,4 +11,4 @@
   * Your tools follow you around
   * There are costs
 
-[(Prev)](../tech_shop/README.md) [(Next)](../getting_started/README.md)
+[(Next)](../getting_started/README.md) [(Prev)](../tech_shop/README.md)
