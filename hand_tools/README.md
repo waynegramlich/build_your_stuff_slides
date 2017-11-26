@@ -21,4 +21,4 @@
   * Work Light
 * Harbor Freight
 
-[(Prev)](../electronics/README.md) [(Next)](../power_tools/README.md)
+[(Next)](../power_hand_tools/README.md) [(Prev)](../electronics/README.md)
