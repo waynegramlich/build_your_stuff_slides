@@ -7,8 +7,8 @@
   * Probably others...
 * Web Purchase (Shapeways, etc.)
 * Coop?
-* Build Your Own
+* Incrementally Build Your Own
   * Your tools follow you around
-  * There are costs
+  * There are costs...
 
 [(Next)](../getting_started/README.md) [(Prev)](../tech_shop/README.md)

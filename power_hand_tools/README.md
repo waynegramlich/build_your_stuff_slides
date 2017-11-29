@@ -4,7 +4,7 @@
   * Variable Speed Drill
   * Drill Bit Set (115 bit set)
   * Screwdriver
-  * Jig saw (+ blades)
+  * Jig/Sabre saw (+ blades)
   * Batteries + Charger
 * Corded Tools
   * Rotary Tool (e.g. Dremel)

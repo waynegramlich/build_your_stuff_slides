@@ -8,7 +8,9 @@
   * Training Classes
   * Subscription Model
 * Closed 2017
-  * Rents?
+  * Insurance?
+  * Capital Costs?
   * Staffing?
+  * Rents?
 
 [(Next)](../now_what/README.md) [(Prev)](../README.md)

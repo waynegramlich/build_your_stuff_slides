@@ -7,7 +7,7 @@
 * Storage
   * Tools Chest
   * Parts/Components
-  * Shelves
+  * Project Shelves
 * Misc.
   * Concrete floor preferred
   * Table/Workbench/Chair
